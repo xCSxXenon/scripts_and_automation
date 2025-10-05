@@ -28,4 +28,5 @@ exit /B
 ::START
 ::::::::::::::::::::::::::::
 setlocal & pushd .
-powershell.exe "& ([ScriptBlock]::Create((irm https://get.activated.win)))" /HWID
+powershell.exe "& ([ScriptBlock]::Create((New-Object Net.WebClient).DownloadString('https://get.activated.win')))" /HWID
+
