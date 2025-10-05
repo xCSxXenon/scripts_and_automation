@@ -10,3 +10,5 @@ Saves some activity and adds a bit of security if someone gains access to the co
 "Pcheck.bat" opens some software in my toolkit to check for updates, since they aren't part of PortableApps distribution.
 
 "PortableApps.bat" opens PortableApps
+
+"win10colors.bat" is an example of different ways to colorize text in CMD
