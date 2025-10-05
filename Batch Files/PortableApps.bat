@@ -1,0 +1,1 @@
+start "" "%USERPROFILE%\Desktop\Tech Toolkit\Portable Apps\start.exe"
